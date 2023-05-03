@@ -1,0 +1,8 @@
+Link de download do Git: https://git-scm.com/downloads
+- O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link de acesso ao Notion: https://www.notion.so/pt-br
+- O Notion é uma ferramenta de organização, podendo assim criar check-list, calendario, planner e entre outros.
+
+Link de acesso ao Teoria Digital: https://www.teoriadigital.com.br/
+- Um ótimo site para se manter atualizado sobre tecnologia.
